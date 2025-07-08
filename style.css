@@ -150,7 +150,7 @@ a:hover {
 
 section {
   padding-top: 4vh;
-  height: 96vh;
+  /* height: 96vh; */
   margin: 0 10rem;
   box-sizing: border-box;
   min-height: fit-content;
@@ -419,6 +419,17 @@ article .icon {
 .email-icon {
   height: 2.5rem;
 }
+
+.skills-list {
+  list-style-type: disc;
+  padding-left: 20px;
+}
+
+.skills-list li {
+  margin-bottom: 10px;
+  line-height: 1.5;
+}
+
 
 /* FOOTER SECTION */
 
